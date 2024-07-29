@@ -1,3 +1,4 @@
+![new lindin](https://github.com/user-attachments/assets/b1398804-186f-4c86-805e-115a75253cae)
 # Credit-card-Fraud-Detection-Model
 Detect Fraudulent Credit Card transactions using different Machine Learning models and compare performances
 # Fraud Detection Model Comparison
