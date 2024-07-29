@@ -1,4 +1,4 @@
-![new lindin](https://github.com/user-attachments/assets/b1398804-186f-4c86-805e-115a75253cae)
+
 # Credit-card-Fraud-Detection-Model
 Detect Fraudulent Credit Card transactions using different Machine Learning models and compare performances
 # Fraud Detection Model Comparison
@@ -20,3 +20,4 @@ To run this project, you'll need Python and the following libraries. You can ins
 ```bash
 pip install numpy pandas tensorflow scikit-learn xgboost lightgbm matplotlib seaborn
 ```
+![new lindin](https://github.com/user-attachments/assets/864914b1-6844-41d9-be16-2d27f3368f4d)
